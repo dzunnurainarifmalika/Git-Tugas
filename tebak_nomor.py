@@ -6,7 +6,7 @@ def guess_the_number():
     target_number = random.randint(1, 100)
     attempts = 0
 
-    print("Selamat datang di Permainan Tebak Angka!")
+    print("Selamat datang di Permainan Tebak Angka by pandu anugrah")
     print("Saya telah memilih angka antara 1 dan 100. Coba tebak!")
 
     while True:
